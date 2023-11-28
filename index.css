@@ -3,7 +3,9 @@
 .navbar-form input[type="text"] {
     width: 100%;
    }
-   
+ .nav-bar{
+    width:100vw;
+ }
 .navbar-form .btn {
     margin-left: 5px;
    }
@@ -85,7 +87,7 @@
     background-color: black;
     text-align: center;
     color:white;
-    height:80px
+    height:90px
 }
 
 .details-btn{
