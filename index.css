@@ -99,7 +99,6 @@
     flex-direction: column;
 }
 .details-container{
-    width:500px;
     margin:10px;
 }
 @media (min-width:768px){
